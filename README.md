@@ -6,6 +6,6 @@ Features
 
 <li>Bootstrap Framework: Utilizes the powerful Bootstrap framework for responsive and mobile-first design.</li>
 <li>Custom CSS: Includes custom CSS for additional styling and customization.</li>
-<li>Web Fonts: Integrates with web fonts for enhanced typography.</li>li
+<li>Web Fonts: Integrates with web fonts for enhanced typography.</li>
 
 # Screenshots
