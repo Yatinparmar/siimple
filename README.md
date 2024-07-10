@@ -8,6 +8,6 @@ Features
 <li>Custom CSS: Includes custom CSS for additional styling and customization.</li>
 <li>Web Fonts: Integrates with web fonts for enhanced typography.</li>
 
-# Screenshots
+# Snap Short
 
 ![Dekstop View](images/Dekstop-view.png)
