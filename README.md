@@ -10,4 +10,4 @@ Features
 
 # Screenshots
 
-![Dekstop View](images/Dekstop view.png)
+![Dekstop View](images/Dekstop-view.png)
