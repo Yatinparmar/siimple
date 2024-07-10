@@ -9,3 +9,5 @@ Features
 <li>Web Fonts: Integrates with web fonts for enhanced typography.</li>
 
 # Screenshots
+
+![Dekstop View](images/Dekstop view.png)
